@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import Minimal from 'layout/MainLayout/Minimal';
 
 // material-ui
 import { Grid } from '@mui/material';
